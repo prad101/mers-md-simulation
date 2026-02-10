@@ -39,3 +39,10 @@ Hydrogen Bonds Config (can vary for each use-case):
 Refer ```sim_analysis_viz.ipynb``` for the next steps towards analysing H-bond occupancy rate.
 
 Note: RMSD calculation and binding affinity prediction steps are part of our another tool under our research lab. The link will be added here as soon as the respective author hosts the code. 
+
+
+### Results
+
+All simulation results are at ```results/simulation_{1/2/3}``` and visualizations at ```results/chart```
+
+Each simulation consists of 100 DCD and PDB files, each corresponding to a consecutive 10 ns segment, covering a total of 1000 ns per simulation. 
