@@ -16,24 +16,26 @@ Use VMD application to find the salt bridges,
 3. Load the combined dcd file over the raw file (load data into molecule)
 4. Run: Extensions -> Analyis -> Salt Bridges -> Find salt bridges
 
+Refer ```sim_analysis_viz.ipynb``` for the next steps towards analysing salt bridge residual pairs.
+
 ### 2. Hydrogen bond occupancy rate
 
 On VMD with molecule and combined dcd file loaded as in previous step,
 
 Run: Extensions -> Hydrogen Bonds (check config below) -> select write output to files -> Find hydrogen bonds
 
-Hydrogen Bonds Config (can vary for each):
+Hydrogen Bonds Config (can vary for each use-case):
 
-selection 1: protein and chain A 
-selection 2: protein and chain B
+  selection 1: protein and chain A 
+  selection 2: protein and chain B
 
-Selection 1 is the: Both (donor & acceptor)
+  Selection 1 is the: Both (donor & acceptor)
 
-Dono-Acceptor Distance (A): 4.0
-Angle Cutoff (degrees): 20
+  Dono-Acceptor Distance (A): 4.0
+  Angle Cutoff (degrees): 20
 
-calculate detailed info for: Residue_pairs
+  calculate detailed info for: Residue_pairs
 
+Refer ```sim_analysis_viz.ipynb``` for the next steps towards analysing H-bond occupancy rate.
 
 Note: RMSD calculation and binding affinity prediction steps are part of our another tool under our research lab. The link will be added here as soon as the respective author hosts the code. 
-For more information please refer to our paper at: 
