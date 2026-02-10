@@ -27,7 +27,8 @@ Use the **VMD (Visual Molecular Dynamics)** application to identify salt bridges
 With the molecule and consolidated trajectory loaded in VMD:
 
 1.  **Navigate:** Go to `Extensions` -> `Hydrogen Bonds`.
-2.  **Configuration:** * **Selection 1:** `protein and chain A`
+2.  **Configuration:**
+    * **Selection 1:** `protein and chain A`
     * **Selection 2:** `protein and chain B`
     * **Selection 1 Role:** Set to `Both (donor & acceptor)`
     * **Distance Cutoff:** 4.0 Å
