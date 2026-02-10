@@ -21,7 +21,7 @@ Use the **VMD (Visual Molecular Dynamics)** application to identify salt bridges
 3.  **Import Data:** Load the combined `.dcd` file onto the previously loaded molecule.
 4.  **Execute Analysis:** Navigate to `Extensions` -> `Analysis` -> `Salt Bridges` -> `Find salt bridges`.
 
-> **Note:** For downstream analysis of salt bridge residual pairs, refer to the `sim_analysis_viz.ipynb` notebook.
+> **Note:** For downstream analysis of salt bridge residual pairs, refer to `sim_analysis_viz.ipynb` notebook.
 
 ### 2. Hydrogen Bond Occupancy
 With the molecule and consolidated trajectory loaded in VMD:
