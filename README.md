@@ -1,48 +1,53 @@
-# mers-md-simulation
-Molecular Dynamics Simulation of MERS-CoV virus using OpenMM to find target residue pairs to inhibit the infection. 
+# MERS-CoV Molecular Dynamics Simulation
 
-The raw simulation results are parsed and analysed to find target residue pairs by,
-  1. Calculating the salt bridges between the interchain residues of virus and human receptors.
-  2. Calculating the hydrogen bonds occupancies for residues of virus and human receptors.
-  3. Calculating the Root-mean-square deviation (RMSD) for all simulations.
-  4. Prediction of binding affinity using the energy files of each simulation run.
+This project utilizes **OpenMM** to perform Molecular Dynamics (MD) simulations of the MERS-CoV virus. The primary objective is to identify target residue pairs that could inhibit infection by analyzing the interactions between viral proteins and human receptors.
 
+## Analysis Pipeline
+The raw simulation results are processed through four key analytical steps to identify critical residue pairs:
+1.  **Salt Bridge Analysis:** Identification of interchain electrostatic interactions.
+2.  **Hydrogen Bond Occupancy:** Calculation of bond persistence between the virus and human receptors.
+3.  **RMSD Calculation:** Tracking the structural stability of the system over time.
+4.  **Binding Affinity Prediction:** Estimating the strength of the interaction using simulation energy files.
+
+---
+
+## 🛠 Analysis Workflow
 
 ### 1. Salt Bridge Calculation
+Use the **VMD (Visual Molecular Dynamics)** application to identify salt bridges:
 
-Use VMD application to find the salt bridges,
-1. Combine all trajectory files in dcd to one dcd file using vmd/dcd_combine.tcl file. (run ```source dcd_combine.tcl``` on vmd terminal)
-2. Load the molecule to VMD (raw input pdb file with heteroatoms removed)
-3. Load the combined dcd file over the raw file (load data into molecule)
-4. Run: Extensions -> Analyis -> Salt Bridges -> Find salt bridges
+1.  **Consolidate Trajectories:** Combine multiple `.dcd` trajectory files into a single file using the `vmd/dcd_combine.tcl` script. Execute `source dcd_combine.tcl` within the VMD terminal.
+2.  **Load Molecule:** Load the raw input PDB file, ensuring all heteroatoms have been removed.
+3.  **Import Data:** Load the combined `.dcd` file onto the previously loaded molecule.
+4.  **Execute Analysis:** Navigate to `Extensions` -> `Analysis` -> `Salt Bridges` -> `Find salt bridges`.
 
-Refer ```sim_analysis_viz.ipynb``` for the next steps towards analysing salt bridge residual pairs.
+> **Note:** For downstream analysis of salt bridge residual pairs, refer to the `sim_analysis_viz.ipynb` notebook.
 
-### 2. Hydrogen bond occupancy rate
+### 2. Hydrogen Bond Occupancy
+With the molecule and consolidated trajectory loaded in VMD:
 
-On VMD with molecule and combined dcd file loaded as in previous step,
+1.  **Navigate:** Go to `Extensions` -> `Hydrogen Bonds`.
+2.  **Configuration:** * **Selection 1:** `protein and chain A`
+    * **Selection 2:** `protein and chain B`
+    * **Selection 1 Role:** Set to `Both (donor & acceptor)`
+    * **Distance Cutoff:** 4.0 Å
+    * **Angle Cutoff:** 20°
+3.  **Output:** Select "Write output to files" and ensure the calculation is set for `Residue_pairs`.
 
-Run: Extensions -> Hydrogen Bonds (check config below) -> select write output to files -> Find hydrogen bonds
+> **Note:** Further visualization and occupancy rate analysis can be found in `sim_analysis_viz.ipynb`.
 
-Hydrogen Bonds Config (can vary for each use-case):
+---
 
-  selection 1: protein and chain A 
-  selection 2: protein and chain B
+## 📊 Results & Data Structure
 
-  Selection 1 is the: Both (donor & acceptor)
+All simulation outputs and charts are organized in the `results/` directory:
+* **Raw Simulation Data:** `results/simulation_{1/2/3}`
+* **Visualizations:** `results/chart`
 
-  Dono-Acceptor Distance (A): 4.0
-  Angle Cutoff (degrees): 20
+### Dataset Scale
+Each simulation covers a **total duration of 1000 ns**. The data is split into 100 DCD and PDB files per simulation, with each file representing a consecutive 10 ns segment.
 
-  calculate detailed info for: Residue_pairs
+---
 
-Refer ```sim_analysis_viz.ipynb``` for the next steps towards analysing H-bond occupancy rate.
-
-Note: RMSD calculation and binding affinity prediction steps are part of our another tool under our research lab. The link will be added here as soon as the respective author hosts the code. 
-
-
-### Results
-
-All simulation results are at ```results/simulation_{1/2/3}``` and visualizations at ```results/chart```
-
-Each simulation consists of 100 DCD and PDB files, each corresponding to a consecutive 10 ns segment, covering a total of 1000 ns per simulation. 
+## 📝 Ongoing Research
+The **RMSD calculation** and **binding affinity prediction** tools are currently part of another tool under our research lab. Links to these modules will be added to this repository as soon as they are made public by the respective authors.
