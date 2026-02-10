@@ -1,0 +1,202 @@
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+0.0%,0,-90139.97995466046,47645.063735748525,-42494.91621891194,309.1405616842046,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+1.0%,5000000,-56416.425311983156,47656.10070710955,-8760.324604873604,309.2121740456607,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+2.0%,10000000,-56858.87467473798,48752.403990872204,-8106.470683865773,316.32543586850784,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+3.0%,15000000,-57473.68449109845,48429.19100514706,-9044.493485951389,314.22829849232824,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+4.0%,20000000,-57593.89598935895,47535.10128973526,-10058.794699623686,308.4270805875427,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+5.0%,25000000,-57949.31243830972,47863.13379513059,-10086.178643179126,310.55548896854566,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+6.0%,30000000,-57981.86496442609,47609.392860124935,-10372.472104301152,308.9091145276386,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+7.0%,35000000,-58452.32223171048,47986.61730178085,-10465.704929929634,311.35670020873454,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+8.0%,40000000,-57490.59956258588,48370.12913672859,-9120.47042585729,313.8450810560316,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+9.0%,45000000,-58047.05529683881,47671.15493418649,-10375.900362652319,309.30985199694004,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+10.0%,50000000,-58086.37595266156,47664.91904616589,-10421.456906495674,309.26939101789765,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+11.0%,55000000,-58917.648089349794,47769.80028135795,-11147.847807991842,309.94990315105866,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+12.0%,60000000,-58527.55925649457,48331.8696473852,-10195.689609109366,313.5968379202691,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+13.0%,65000000,-59609.18470901303,48116.22436683194,-11492.96034218109,312.1976435876826,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+14.0%,70000000,-58945.19963353925,47787.31839029002,-11157.881243249227,310.0635677704396,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+15.0%,75000000,-59240.98830932431,48291.0124614276,-10949.975847896712,313.33173987179504,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+16.0%,80000000,-58793.54901403241,47900.47303469782,-10893.075979334593,310.79776114928393,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+17.0%,85000000,-59062.96092933469,47274.4676858359,-11788.493243498786,306.7359837060252,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+18.0%,90000000,-58270.04110425763,48064.788981307735,-10205.252122949896,311.86390987584235,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+19.0%,95000000,-58719.76268190198,48452.60689381114,-10267.155788090837,314.3802303065891,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+20.0%,100000000,-58788.09303373151,47848.30084740999,-10939.792186321516,310.4592467677752,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+21.0%,105000000,-59505.51155561261,47340.11523962091,-12165.396315991704,307.16193174888747,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+22.0%,110000000,-58985.99906820111,48360.59248605161,-10625.406582149502,313.7832033856979,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+23.0%,115000000,-58449.63407796674,47339.6226338048,-11110.011444161937,307.15873552189686,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+24.0%,120000000,-58509.23112005048,48022.129013923695,-10487.102106126782,311.58711464786916,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+25.0%,125000000,-59287.30514425092,48007.26512346244,-11280.040020788474,311.4906716780058,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+26.0%,130000000,-59538.529631555604,48048.27849366458,-11490.251137891028,311.7567831134143,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+27.0%,135000000,-59788.31259244733,47625.857384727686,-12162.455207719642,309.0159430631567,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+28.0%,140000000,-58893.964898050355,47958.44593248726,-10935.518965563097,311.17391290100556,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+29.0%,145000000,-59598.74565595441,47431.445517643355,-12167.300138311053,307.7545197576522,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+30.0%,150000000,-58739.89566892438,47531.98092629394,-11207.91474263044,308.4068343997684,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+31.0%,155000000,-58520.6102742558,47479.43530429108,-11041.174969964719,308.0658970218671,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+32.0%,160000000,-59366.574133813905,47236.542784112855,-12130.03134970105,306.48991151089695,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+33.0%,165000000,-59558.964173257875,47746.79375998909,-11812.170413268788,309.8006274783926,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+34.0%,170000000,-59720.77305311017,47856.63300178433,-11864.140051325841,310.5133091759526,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+35.0%,175000000,-59024.687744081544,47669.94667012547,-11354.741073956073,309.3020122880343,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+36.0%,180000000,-59124.25011915021,47203.63547667058,-11920.614642479632,306.27639550926784,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+37.0%,185000000,-58802.43931859784,48012.5932584682,-10789.84606012964,311.5252427860968,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+38.0%,190000000,-58474.52539533429,48060.23899185681,-10414.286403477483,311.83438769276125,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+39.0%,195000000,-59465.4579305058,47954.99587867502,-11510.462051830778,311.15152754794417,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+40.0%,200000000,-58559.99194425397,47585.94413722609,-10974.047807027877,308.75696967150134,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+41.0%,205000000,-58960.00874036603,48317.84772064048,-10642.16101972555,313.5058579536182,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+42.0%,210000000,-59165.95129293256,47609.0197812859,-11556.93151164666,308.9066938403143,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+43.0%,215000000,-59057.60969251447,48243.77730051009,-10813.832392004377,313.025258926397,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+44.0%,220000000,-59368.778626382875,47849.36822717264,-11519.410399210232,310.46617236202326,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+45.0%,225000000,-58956.18840879254,48028.92733428255,-10927.261074509996,311.63122491679235,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+46.0%,230000000,-59510.11867612653,47910.50821188791,-11599.61046423862,310.86287346249964,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+47.0%,235000000,-59075.65654462628,47743.49715722678,-11332.1593873995,309.7792377781869,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+48.0%,240000000,-59473.42601102643,48136.95951709099,-11336.46649393544,312.33218168030095,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+49.0%,245000000,-60329.7050675755,47390.35321498476,-12939.351852590742,307.4878961763462,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+50.0%,250000000,-58858.57818692975,47929.886472478975,-10928.691714450775,310.9886075027942,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+51.0%,255000000,-59114.93459504895,47930.31599077268,-11184.618604276271,310.99139439226724,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+52.0%,260000000,-59327.448380411195,48243.85696927784,-11083.591411133355,313.0257758497817,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+53.0%,265000000,-59721.888612211274,47822.063677521655,-11899.82493468962,310.2890093328696,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+54.0%,270000000,-59382.26731771283,47710.11020426429,-11672.157113448542,309.5626096412409,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+55.0%,275000000,-59637.59564966016,48103.52300297364,-11534.072646686516,312.11523197041436,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+56.0%,280000000,-59375.860642374086,47843.48585769447,-11532.374784679618,310.4280051551411,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+57.0%,285000000,-59106.86176770978,48164.416190224234,-10942.445577485545,312.5103317485109,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+58.0%,290000000,-60008.41513150983,48424.92396581848,-11583.491165691346,314.20061220478163,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+59.0%,295000000,-59168.69359296613,47748.835755205946,-11419.85783776018,309.813876774307,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+59.0%,295000000,-58594.796370447206,47748.835755205946,-10845.96061524126,309.813876774307,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+60.0%,300000000,-58915.22324174695,48660.33440048568,-10254.888841261272,315.72805090027725,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+61.0%,305000000,-60245.4392384892,48103.507167082396,-12141.932071406802,312.1151292207079,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+62.0%,310000000,-59517.17281431012,47153.765136666596,-12363.407677643525,305.95281644962546,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+63.0%,315000000,-59400.79022878461,48006.98758735659,-11393.802641428018,311.4888709108135,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+64.0%,320000000,-59729.03955358319,48240.25580169511,-11488.783751888084,313.00241000908477,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+65.0%,325000000,-59790.50656408124,47425.29264160036,-12365.213922480878,307.7145973941004,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+66.0%,330000000,-60562.614478052186,48171.417066968046,-12391.19741108414,312.5557562856858,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+67.0%,335000000,-60212.872020662355,47774.91797624878,-12437.954044413578,309.9831088380497,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+68.0%,340000000,-59983.3807114964,47457.85993527272,-12525.520776223682,307.9259072480287,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+69.0%,345000000,-59822.308131158876,47879.215540036676,-11943.0925911222,310.65983387362763,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+70.0%,350000000,-59789.77332776837,47805.71300545102,-11984.060322317353,310.1829195189098,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+71.0%,355000000,-60467.68426030927,47812.19986164174,-12655.484398667526,310.2250088815663,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+72.0%,360000000,-60287.055161417054,47948.93185901991,-12338.123302397144,311.11218172079526,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+73.0%,365000000,-60227.57080358319,47611.54683454707,-12616.02396903612,308.9230903902045,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+74.0%,370000000,-59718.77781289868,47772.11635443312,-11946.661458465562,309.9649307756481,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+75.0%,375000000,-59587.09476178937,47762.038469421444,-11825.056292367924,309.89954135670683,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+76.0%,380000000,-60682.750925005006,47844.25563445012,-12838.495290554885,310.43299977997634,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+77.0%,385000000,-59759.38512319379,48145.776649927255,-11613.608473266533,312.38939082609124,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+78.0%,390000000,-59291.8858060246,47123.952664946206,-12167.933141078393,305.75938100153894,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+79.0%,395000000,-59627.73284906201,48026.37698568124,-11601.35586338077,311.6146772172558,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+80.0%,400000000,-59965.46217531018,47349.32095546462,-12616.141219845566,307.2216621793558,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+81.0%,405000000,-59967.39177793317,48388.4056478166,-11578.986130116566,313.96366649721625,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+82.0%,410000000,-60258.55724233441,48145.1485943445,-12113.408647989912,312.3853157458962,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+83.0%,415000000,-59554.98012822919,47334.89185835479,-12220.088269874395,307.12804032568664,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+84.0%,420000000,-59909.717284143495,47913.010743119754,-11996.706541023741,310.87911090348484,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+85.0%,425000000,-60103.07327932172,47918.94965441036,-12184.123624911357,310.91764497665457,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+86.0%,430000000,-58809.62231344037,48787.58895767166,-10022.033355768712,316.5537302508924,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+87.0%,435000000,-59318.95921033673,47595.01300309348,-11723.94620724325,308.81581216363514,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+88.0%,440000000,-58627.50179809384,48101.447843562346,-10526.053954531497,312.101767491711,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+89.0%,445000000,-59312.25641912274,48745.45960218529,-10566.79681693745,316.2803778488328,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+90.0%,450000000,-59634.3678750401,47623.78283742652,-12010.585037613579,309.002482556073,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+91.0%,455000000,-59213.815957010316,47666.2245394144,-11547.591417595919,309.27786158933725,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+92.0%,460000000,-60526.797390878724,47548.51514469879,-12978.282246179937,308.51411513703505,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+93.0%,465000000,-59596.649649560975,47824.40073277382,-11772.248916787154,310.3041730983617,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+94.0%,470000000,-59700.66141599469,47021.940211919195,-12678.721204075497,305.09748269445595,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+95.0%,475000000,-60418.86564916425,48220.17668731348,-12198.68896185077,312.8721285441992,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+96.0%,480000000,-60468.59089750104,48177.430397096556,-12291.160500404483,312.59477321855906,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+97.0%,485000000,-59074.56409543805,47495.72649433557,-11578.837601102481,308.17160089223626,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+98.0%,490000000,-59920.01081556134,48440.90878607216,-11479.102029489179,314.30432822327725,5591.24383331643,0.03172428601938044,0,--
+#"Progress (%)","Step","Potential Energy (kJ/mole)","Kinetic Energy (kJ/mole)","Total Energy (kJ/mole)","Temperature (K)","Box Volume (nm^3)","Density (g/mL)","Speed (ns/day)","Time Remaining"
+99.0%,495000000,-59436.07409662061,48441.82071680459,-10994.253379816015,314.31024520096054,5591.24383331643,0.03172428601938044,0,--
